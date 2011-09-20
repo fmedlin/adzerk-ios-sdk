@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/iphone/!svn/ver/2757/3rdParty/AsiHttpRequest
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/ASIHTTPRequest.m
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/ASINetworkQueue.h
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/ASIProgressDelegate.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/iphone/!svn/ver/2063/3rdParty/AsiHttpRequest/ASIAuthenticationDialog.h
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/ASINetworkQueue.m
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/ASIAuthenticationDialog.m
+END
+ASINSStringAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/iphone/!svn/ver/2063/3rdParty/AsiHttpRequest/ASINSStringAdditions.h
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/ASIFormDataRequest.h
+END
+ASINSStringAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/iphone/!svn/ver/2063/3rdParty/AsiHttpRequest/ASINSStringAdditions.m
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/iphone/!svn/ver/2063/3rdParty/AsiHttpRequest/ASIInputStream.h
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/ASIFormDataRequest.m
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/iphone/!svn/ver/2757/3rdParty/AsiHttpRequest/ASIHTTPRequestConfig.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/ASIInputStream.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/ASIHTTPRequestDelegate.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/ASIHTTPRequest.h
+END

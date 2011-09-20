@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/Tests
+END
+PerformanceTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/Tests/PerformanceTests.m
+END
+ASIFormDataRequestTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/Tests/ASIFormDataRequestTests.m
+END
+ProxyTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/Tests/ProxyTests.h
+END
+StressTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/Tests/StressTests.h
+END
+GHUnitTestMain.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/Tests/GHUnitTestMain.m
+END
+ASITestCase.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/Tests/ASITestCase.h
+END
+ASIHTTPRequestTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/Tests/ASIHTTPRequestTests.h
+END
+ProxyTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/Tests/ProxyTests.m
+END
+StressTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/Tests/StressTests.m
+END
+ASITestCase.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/Tests/ASITestCase.m
+END
+ASIHTTPRequestTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/Tests/ASIHTTPRequestTests.m
+END
+ASIS3RequestTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/Tests/ASIS3RequestTests.h
+END
+ASINetworkQueueTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/Tests/ASINetworkQueueTests.h
+END
+ASICloudFilesRequestTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/Tests/ASICloudFilesRequestTests.h
+END
+ASIS3RequestTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/Tests/ASIS3RequestTests.m
+END
+ASINetworkQueueTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/Tests/ASINetworkQueueTests.m
+END
+PerformanceTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/Tests/PerformanceTests.h
+END
+ASIFormDataRequestTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/Tests/ASIFormDataRequestTests.h
+END
+ASICloudFilesRequestTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/iphone/!svn/ver/2064/3rdParty/AsiHttpRequest/Tests/ASICloudFilesRequestTests.m
+END
